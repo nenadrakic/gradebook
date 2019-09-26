@@ -9,3 +9,14 @@ C:\Users\Nenad\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.Assembl
 C:\Users\Nenad\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
 C:\Users\Nenad\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
 C:\Users\Nenad\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
+C:\cSharp\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\cSharp\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\cSharp\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\cSharp\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\cSharp\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\cSharp\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\cSharp\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\cSharp\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\cSharp\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\cSharp\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\cSharp\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
