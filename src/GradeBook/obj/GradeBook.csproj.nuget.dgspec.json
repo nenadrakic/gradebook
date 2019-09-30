@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nenad\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
+    "C:\\cSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nenad\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+    "C:\\cSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nenad\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "projectUniqueName": "C:\\cSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "C:\\Users\\Nenad\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-        "packagesPath": "C:\\Users\\Nenad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nenad\\gradebook\\src\\GradeBook\\obj\\",
+        "projectPath": "C:\\cSharp\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+        "packagesPath": "C:\\Users\\nenad.rakic\\.nuget\\packages\\",
+        "outputPath": "C:\\cSharp\\gradebook\\src\\GradeBook\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nenad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nenad.rakic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
